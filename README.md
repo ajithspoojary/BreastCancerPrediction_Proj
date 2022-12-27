@@ -40,16 +40,14 @@
 ![Page](https://github.com/connectasp/BreastCancerPrediction_Project/blob/62ba0302c1474119373376cdfae3ab3daa4db1ec/Asset/download%20(1).png)
 
 ### Note
-> i.  => 1 (Orange) = Benign (No Cancer)
-> ii. => 0 (Blue) = Malignant (Cancer)
+> 1 (Orange) = Benign (No Cancer) - 0 (Blue) = Malignant (Cancer)
 
 
 ## Checking the Percentage of Malignant and Benign in a given Dataset
 ![Page](https://github.com/connectasp/BreastCancerPrediction_Project/blob/62ba0302c1474119373376cdfae3ab3daa4db1ec/Asset/download%20(2).png)
 
 ### Note
-> i.  => 1 = Benign (No Cancer)
-> ii. => 0 = Malignant (Cancer)
+> 1 = Benign (No Cancer) - 0 = Malignant (Cancer)
 
 ## Checking the Coorelation between the Features
 ![Page](https://github.com/connectasp/BreastCancerPrediction_Project/blob/62ba0302c1474119373376cdfae3ab3daa4db1ec/Asset/download%20(3).png)
@@ -62,7 +60,7 @@ SVM is well suited for classification of complex but small or medium sized datas
 > 1. “y” = Is the feature we are trying to predict (Output). In this case we are trying to predict if our “target” is cancerous (Malignant) or not (Benign). i.e. we are going to use the “target” feature here.
 > 2. “X” = The predictors which are the remaining columns (mean radius, mean texture, mean perimeter, mean area, mean smoothness, etc.)
 
-# In this Project using various Machine Learning Techinique the accuracy of Model is around 98%
+# In this Project using various Machine Learning Techinique the Accuracy of Model is around 98%
 
 ## Conclusion
 > This project took us through the journey of explaining what “modeling” means in Data Science, difference between model prediction and inference, introduction to Support Vector Machine (SVM), advantages and disadvantages of SVM, training an SVM model to make accurate breast cancer classifications, improving the performance of an SVM model, and testing model accuracy using Confusion Matrix.
