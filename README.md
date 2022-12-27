@@ -65,7 +65,7 @@ SVM is well suited for classification of complex but small or medium sized datas
 ## Conclusion
 > This project took us through the journey of explaining what “modeling” means in Data Science, difference between model prediction and inference, introduction to Support Vector Machine (SVM), advantages and disadvantages of SVM, training an SVM model to make accurate breast cancer classifications, improving the performance of an SVM model, and testing model accuracy using Confusion Matrix.
 
-## Developer
+## Author
 + Ajith Sanjeeva Poojary (M.Tech : Software Engineering)
 [Click here to View Linkedin Profile](https://www.linkedin.com/in/connectasp/)
 
